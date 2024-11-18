@@ -22,6 +22,6 @@ int main()
     d.rolln=12;
     p.link=&d;
     cout<<p.link->rolln;
-    return 0;
+   
 }
 
