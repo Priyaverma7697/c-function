@@ -24,4 +24,3 @@ int main()
     cout<<p.link->name;
     return 0;
 }
-//compile issue name output nahi a rhaa

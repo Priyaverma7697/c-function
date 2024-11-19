@@ -11,7 +11,7 @@ int fibo(int num){
 
 int main()
 {
-    int num=4;
+    int num=5;
     cout<<fibo(num);
     return 0;
 }
