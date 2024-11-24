@@ -4,6 +4,7 @@
 using namespace std;
 struct info
 {
+    
     int number;
     string name;
     struct info *link;
